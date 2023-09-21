@@ -3,12 +3,12 @@ package com.deb.quiz.home;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-import com.deb.quiz.curd.Delete;
-import com.deb.quiz.curd.InsertOne;
-import com.deb.quiz.curd.InsertThree;
-import com.deb.quiz.curd.InsertTwo;
-import com.deb.quiz.curd.Select;
-import com.deb.quiz.curd.Update;
+import com.deb.quiz.crud.Delete;
+import com.deb.quiz.crud.InsertOne;
+import com.deb.quiz.crud.InsertThree;
+import com.deb.quiz.crud.InsertTwo;
+import com.deb.quiz.crud.Select;
+import com.deb.quiz.crud.Update;
 import com.deb.quiz.login.Login;
 
 public class Home {

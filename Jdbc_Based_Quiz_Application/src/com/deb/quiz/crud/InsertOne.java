@@ -1,4 +1,4 @@
-package com.deb.quiz.curd;
+package com.deb.quiz.crud;
 
 import java.sql.Statement;
 
